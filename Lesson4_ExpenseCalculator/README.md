@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(oct 12, 2017)
 
 ### Student Name:  
-(First and Last Name)
+Patrick Beverly
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Creating an expense calculator for every day expenses during the month.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://beverly-lesson4-javascript1-pjzone.c9users.io/Lesson4_ExpenseCalculator/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. learned how to declare a varable with var.
+2. learned how to turn a string into a float.
+3. learned how to use certain Arithmetic Operators like divide. 
 

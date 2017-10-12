@@ -4,8 +4,8 @@
        <!--
           Course:  Web Application Development
           Assignment:  Lesson 4 (JavaScript 1)
-          Author:  
-          Date:   
+          Author:  Patrick Beverly
+          Date:   10/11/12
           Filename: index.html
        -->
        <meta charset="utf-8" />
@@ -64,10 +64,21 @@
                       * HINT:  Use the following variable names:  householdInput, miscellaneousInput, transportationInput
                       *
                       *************************************************************************************************-->
-
-                </fieldset>                 
-
-
+                            <label for="householdInput">
+                            Household (utilities, cellphone, cable, maintenance etc.):         
+                            <input type="text"  id="householdInput" name="Household"/>
+                          </label>
+                          
+                          <label for="transportationInput">
+                            Transportation (public transportation, parking, gas, etc.):         
+                            <input type="text"  id="transportationInput" name="transportation"  />
+                          </label>
+                          
+                          <label for="miscellaneousInput">
+                            Miscellaneous (magazines, childcare, etc.):         
+                            <input type="text"  id="miscellaneousInput" name="miscellaneous"  />
+                          </label>
+                </fieldset>                
                 <!--************************************************************************************************
                 *  This section in the HTML code defines id's or placeholders where the result of the percentages
                 *  calculated will be place.  The getElementById() method used later in the program uses these id's 
